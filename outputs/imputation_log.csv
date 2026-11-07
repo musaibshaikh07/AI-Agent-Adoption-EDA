@@ -1,0 +1,11 @@
+column,missing_before,method,fill_value
+Age_Group,8,mode,25-34
+Tasks_Automated,5,median,23.0
+Hours_Saved_Per_Week,8,median,4.3
+Productivity_Change_Percent,6,median,8.1
+AI_Skill_Level,3,mode,Intermediate
+Training_Hours,15,median,13.0
+Monthly_AI_Cost,6,median,57.72
+Job_Satisfaction,12,median,7.0
+Trust_in_AI,9,median,6.0
+Error_Rate,18,median,8.2

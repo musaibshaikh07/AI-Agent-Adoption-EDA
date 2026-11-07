@@ -1,0 +1,8 @@
+column,values_outside_assumed_range,assumed_range
+Training_Hours,1,0 to no upper limit
+Tasks_Automated,0,0 to no upper limit
+Hours_Saved_Per_Week,0,0 to no upper limit
+Job_Satisfaction,0,0 to 10
+Trust_in_AI,1,0 to 10
+Error_Rate,0,0 to 100
+Monthly_AI_Cost,0,0 to no upper limit
